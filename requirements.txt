@@ -1,0 +1,5 @@
+scipy
+pynput
+click
+pygetwindow
+pillow
